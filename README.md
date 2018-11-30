@@ -3,7 +3,7 @@
 
 ![alt text](./demo.png)
 
-# Pipeline Instructions
+## Instructions
 
 Each of the folders is part of the pipeline. The .tif images were removed (since they took up a lot of space) so the input/output frames need to be generated in order first by running the processing files (inside each folder) in order. You will need to copy across the output folder for each step.
 
