@@ -1,5 +1,7 @@
 
-# 2D Motion Tracking
+# 2D Motion Tracker
+
+Tracks the motion of a monkey and replaces it with a puppet of Denzel Washington.
 
 ![alt text](./demo.png)
 
