@@ -1,7 +1,7 @@
 
 # 2D Motion Tracker
 
-Tracks the motion of a monkey and replaces it with a puppet of Denzel Washington.
+Tracks the motion of a monkey and replaces it with a dodgeball playing puppet of Denzel Washington to the tune of Rocky V's "Gotta Fly Now".
 
 ![alt text](./demo.png)
 
