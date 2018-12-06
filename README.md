@@ -11,18 +11,22 @@ Each of the folders is part of the pipeline. The .tif images were removed (since
 
 1. ExtractFrames
 input file: monkey.mov
+
 output folder: extractedframes
 
 2. BinaryImage
 input folder: extractedframes
+
 output folder: binaryframes
 
 3. DilationErosion
 input folder: binaryframes
+
 output folder: binaryenhanced
 
 4. DodgeballDenzel
 input folder: binaryenhanced
+
 output folder: motiontracked
 
 
